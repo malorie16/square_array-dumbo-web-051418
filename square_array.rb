@@ -6,3 +6,6 @@ def square_array(array)
   end
 array
 end
+array = numbers.each do |number|
+    puts number * number
+end
